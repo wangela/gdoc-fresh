@@ -3,8 +3,8 @@ AppScript to auto-populate Google Docs with Created and Last Updated dates
 
 ## How to install:
 1. Open the Google Doc where you want this script to run
-1. Select **Tools > Script editor** menu
-1. Replace the contents of `Code.gs` with this code and **Save**
+1. Select **Extensions > Apps Script** menu
+1. Replace the contents of `Code.gs` with this code and click **Save**
 1. In the left side menu, open **Triggers**
 1. Create a new trigger which will call function updateFreshness upon event `onOpen`
 

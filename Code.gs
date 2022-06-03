@@ -5,7 +5,7 @@
  * 
  * How to use:
  *     1. Open the doc you want this script to run in
- *     2. Tools > Script editor menu
+ *     2. Extensions > Apps Script menu
  *     3. Replace the contents of Code.gs with this code and Save
  *     4. In the left side menu, open Triggers
  *     5. Create a new trigger which will call function updateFreshness upon 
